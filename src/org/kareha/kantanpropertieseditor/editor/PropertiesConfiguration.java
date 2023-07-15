@@ -1,4 +1,4 @@
-package pl.gildur.simplepropertieseditor.editor;
+package org.kareha.kantanpropertieseditor.editor;
 
 import org.eclipse.jface.text.IDocument;
 import org.eclipse.jface.text.TextAttribute;

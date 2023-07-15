@@ -1,4 +1,4 @@
-package pl.gildur.simplepropertieseditor.editor;
+package org.kareha.kantanpropertieseditor.editor;
 
 import java.nio.ByteBuffer;
 import java.nio.charset.Charset;

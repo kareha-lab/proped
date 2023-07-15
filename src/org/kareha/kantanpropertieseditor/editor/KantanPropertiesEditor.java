@@ -1,12 +1,12 @@
-package pl.gildur.simplepropertieseditor.editor;
+package org.kareha.kantanpropertieseditor.editor;
 
 import org.eclipse.ui.editors.text.TextEditor;
 
-public class SimplePropertiesEditor extends TextEditor {
+public class KantanPropertiesEditor extends TextEditor {
 
     private ColorManager colorManager;
 
-    public SimplePropertiesEditor() {
+    public KantanPropertiesEditor() {
         super();
         colorManager = new ColorManager();
         setSourceViewerConfiguration(new PropertiesConfiguration(colorManager));

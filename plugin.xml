@@ -5,12 +5,12 @@
    <extension
          point="org.eclipse.ui.editors">
       <editor
-            name="Simple Properties Editor"
+            name="Kantan Properties Editor"
             extensions="properties"
-            icon="icons/icon.gif"
+            icon="icons/icon.png"
             contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
-            class="pl.gildur.simplepropertieseditor.editor.SimplePropertiesEditor"
-            id="pl.gildur.simplepropertieseditor.editor.SimplePropertiesEditor">
+            class="org.kareha.kantanpropertieseditor.editor.KantanPropertiesEditor"
+            id="org.kareha.kantanpropertieseditor.editor.KantanPropertiesEditor">
       </editor>
    </extension>
 

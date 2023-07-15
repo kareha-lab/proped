@@ -1,4 +1,4 @@
-package pl.gildur.simplepropertieseditor;
+package org.kareha.kantanpropertieseditor;
 
 import org.eclipse.jface.resource.ImageDescriptor;
 import org.eclipse.ui.plugin.AbstractUIPlugin;
@@ -13,7 +13,7 @@ public class Activator extends AbstractUIPlugin {
     /**
      * The plug-in ID.
      */
-    public static final String PLUGIN_ID = "SimplePropertiesEditor";
+    public static final String PLUGIN_ID = "KantanPropertiesEditor";
 
     /**
      * The shared instance.

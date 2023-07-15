@@ -1,13 +1,16 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Simple Properties Editor
-Bundle-SymbolicName: pl.gildur.simplepropertieseditor;singleton:=true
-Bundle-Version: 1.0.5
-Bundle-Activator: pl.gildur.simplepropertieseditor.Activator
-Bundle-Vendor: Piotr Wolny
+Bundle-Name: Kantan Properties Editor
+Bundle-SymbolicName: KantanPropertiesEditor;singleton:=true
+Bundle-Version: 1.0.6
+Bundle-Activator: org.kareha.kantanpropertieseditor.Activator
+Bundle-Vendor: Aki Goto
 Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.jface,
  org.eclipse.jface.text,
  org.eclipse.ui.editors,
- org.eclipse.ui
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+ org.eclipse.ui.workbench,
+ org.eclipse.ui.workbench.texteditor
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: KantanPropertiesEditor.singleton.true
 Bundle-ActivationPolicy: lazy

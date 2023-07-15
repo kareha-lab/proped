@@ -1,4 +1,4 @@
-package pl.gildur.simplepropertieseditor.editor;
+package org.kareha.kantanpropertieseditor.editor;
 
 import java.util.HashMap;
 import java.util.Map;
