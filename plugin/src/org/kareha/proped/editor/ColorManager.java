@@ -1,4 +1,4 @@
-package org.kareha.kantanpropertieseditor.editor;
+package org.kareha.proped.editor;
 
 import java.util.HashMap;
 import java.util.Map;

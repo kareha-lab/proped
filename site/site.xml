@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Kantan Properties Editor" url="https://tyatsumi.gitlab.io/KantanPropertiesEditor/updates">
-      Eclipse plugin for editing Java properties files, automatically converts non-ASCII characters to Unicode escape sequences.
+   <description name="Kantan Properties Editor" url="https://tyatsumi.gitlab.io/proped/">
+      Kantan Properties Editor is a Eclipse plugin for editing Java properties files, automatically converts non-ASCII characters to Unicode escape sequences.
+
+This plugin is a fork from Simple Properties Editor created by Piotr Wolny.
+
+Kantan means Simple and Easy in Japanese.
    </description>
-   <feature url="features/org.kareha.kantanpropertieseditor.feature_1.0.6.jar" id="org.kareha.kantanpropertieseditor.feature" version="1.0.6"/>
+   <feature url="features/org.kareha.proped.feature_1.0.6.jar" id="org.kareha.proped.feature" version="1.0.6"/>
 </site>

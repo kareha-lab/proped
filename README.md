@@ -15,9 +15,9 @@ Installation
 </a>
 
 Drag and drop above button into a running Eclipse workspace or click "Help -> Install new software" and paste update site URL:<br>
-https://tyatsumi.gitlab.io/KantanPropertiesEditor/updates/
+https://tyatsumi.gitlab.io/proped/
 
 License
 -------
 
-<a href="https://tyatsumi.gitlab.io/KantanPropertiesEditor/LICENSE">MIT</a>
+<a href="https://tyatsumi.gitlab.io/proped/LICENSE.txt">MIT</a>

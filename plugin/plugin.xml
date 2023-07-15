@@ -9,8 +9,8 @@
             extensions="properties"
             icon="icons/icon.png"
             contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
-            class="org.kareha.kantanpropertieseditor.editor.KantanPropertiesEditor"
-            id="org.kareha.kantanpropertieseditor.editor.KantanPropertiesEditor">
+            class="org.kareha.proped.editor.KantanPropertiesEditor"
+            id="org.kareha.proped.editor.KantanPropertiesEditor">
       </editor>
    </extension>
 

@@ -1,4 +1,4 @@
-package org.kareha.kantanpropertieseditor.editor;
+package org.kareha.proped.editor;
 
 import java.nio.ByteBuffer;
 import java.nio.charset.Charset;

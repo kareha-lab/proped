@@ -1,4 +1,4 @@
-package org.kareha.kantanpropertieseditor.editor;
+package org.kareha.proped.editor;
 
 import org.eclipse.jface.text.IDocument;
 import org.eclipse.jface.text.TextAttribute;

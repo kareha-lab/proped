@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Kantan Properties Editor
+Bundle-SymbolicName: org.kareha.proped;singleton:=true
+Bundle-Version: 1.0.6
+Bundle-Activator: org.kareha.proped.Activator
+Bundle-Vendor: Aki Goto
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.jface.text,
+ org.eclipse.ui.editors
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: org.kareha.proped.singleton.true
+Bundle-ActivationPolicy: lazy

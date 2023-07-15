@@ -1,4 +1,4 @@
-package org.kareha.kantanpropertieseditor.editor;
+package org.kareha.proped.editor;
 
 import org.eclipse.swt.graphics.RGB;
 
