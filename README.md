@@ -10,7 +10,7 @@ Kantan means Simple and Easy in Japanese.
 Installation
 ------------
 
-<a href="https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=" title="Drag and drop into a running Eclipse workspace to install Kantan Properties Editor">
+<a href="https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=5638208" title="Drag and drop into a running Eclipse workspace to install Kantan Properties Editor">
   <img src="https://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
 </a>
 
