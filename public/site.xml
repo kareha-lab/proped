@@ -7,5 +7,5 @@ This plugin is a fork from Simple Properties Editor created by Piotr Wolny.
 
 Kantan means Simple and Easy in Japanese.
    </description>
-   <feature url="features/org.kareha.proped.feature_1.0.6.jar" id="org.kareha.proped.feature" version="1.0.6"/>
+   <feature url="features/org.kareha.proped.feature_1.0.7.jar" id="org.kareha.proped.feature" version="1.0.7"/>
 </site>

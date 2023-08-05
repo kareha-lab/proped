@@ -2,7 +2,7 @@
 <feature
       id="org.kareha.proped.feature"
       label="Kantan Properties Editor"
-      version="1.0.6"
+      version="1.0.7"
       provider-name="Aki Goto">
 
    <description url="https://tyatsumi.gitlab.io/proped/">

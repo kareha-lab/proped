@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Kantan Properties Editor
 Bundle-SymbolicName: org.kareha.proped;singleton:=true
-Bundle-Version: 1.0.6
+Bundle-Version: 1.0.7
 Bundle-Activator: org.kareha.proped.Activator
 Bundle-Vendor: Aki Goto
 Require-Bundle: org.eclipse.ui,
