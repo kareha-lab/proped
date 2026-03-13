@@ -15,9 +15,9 @@ Installation
 </a>
 
 Drag and drop above button into a running Eclipse workspace or click "Help -> Install new software" and paste update site URL:<br>
-https://tyatsumi.gitlab.io/proped/
+https://kareha-lab.github.io/proped/update/
 
 License
 -------
 
-<a href="https://tyatsumi.gitlab.io/proped/LICENSE.txt">MIT</a>
+<a href="https://kareha-lab.github.io/proped/LICENSE.txt">MIT</a>
